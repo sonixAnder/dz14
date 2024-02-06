@@ -1,0 +1,3 @@
+﻿  array, range, sum of elements.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\array, range, sum of elements\array, range, sum of elements\array, range, sum of elements.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  array, range, sum of elements.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\array, range, sum of elements\x64\Debug\array, range, sum of elements.exe
